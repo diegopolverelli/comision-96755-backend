@@ -1,0 +1,37 @@
+[
+     {
+          "id": 1,
+          "nombre": "Administrador",
+          "email": "admin@test.com",
+          "password": "$2b$10$DXLaACSkV/c7m6eYlFl9FOlxW4XnB9/efKrsCFnPKyo2rXQRVWT/W",
+          "rol": "admin"
+     },
+     {
+          "id": 2,
+          "nombre": "Martin",
+          "email": "martin@test.com",
+          "password": "$2b$10$QffAz2cbx6KCQEU5g5VEu.NC7XeUhkuNBaDxVr214Qvs0rYW/NXyq",
+          "rol": "user"
+     },
+     {
+          "id": 3,
+          "nombre": "Lorena",
+          "email": "lorena@test.com",
+          "password": "$2b$10$LwtJbiAY3.eleBywQHLMu.c7aGRaqBLeg444gieoEPYedR.M1n1Sy",
+          "rol": "user"
+     },
+     {
+          "id": 4,
+          "nombre": "Carolina",
+          "email": "carolina@test.com",
+          "password": "$2b$10$8LrfbTveKDW5Ih/0RtEYUevZR94B3kBFpfUZ6l4AboTWs7VDSlZB.",
+          "rol": "user"
+     },
+     {
+          "id": 5,
+          "nombre": "Juan",
+          "email": "juan@test.com",
+          "password": "$2b$10$84Zwr8E2LL.SziI7A7w7v.mWiIxEyL75qQsiC5Ge3lpyzf3scBIWW",
+          "rol": "user"
+     }
+]
